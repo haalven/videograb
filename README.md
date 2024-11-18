@@ -10,4 +10,4 @@ download video files from URLs, for macOS users
 
 ## download
 grab the video: `$ grab <URL>`
-(URL in `''` quotation marks)
+(`'`URL`'` in quotation marks)
