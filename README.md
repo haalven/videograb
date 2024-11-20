@@ -14,4 +14,4 @@ grab the video: `$ grab <URL>`
 (`'`URL`'` in quotation marks)
 
 ## video format
--> the script selects the best available MPEG format (h264/avc or h265/hevc)
+-> script selects the best available MPEG format (h264/avc, h265/hevc), but not Google's (av1, opus)
