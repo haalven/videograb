@@ -12,3 +12,6 @@ download video files from URLs, for macOS users
 grab the video: `$ grab <URL>`
 
 (`'`URL`'` in quotation marks)
+
+## video format
+-> the script selects the best available MPEG format (h264/avc or h265/hevc)
