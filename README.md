@@ -1,5 +1,5 @@
 # videograb
-download video files from URLs, for macOS users
+get video files from URLs, for macOS users
 
 ## preparations
 1. install [yt-dlp](https://github.com/yt-dlp/yt-dlp): `$ brew install yt-dlp`
